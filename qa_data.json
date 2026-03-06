@@ -1,0 +1,18 @@
+[
+  {
+    "image": "Tomato___Late_blight/001.jpg",
+    "conversation": [
+      {"from": "human", "value": "What disease does this plant have?"},
+      {"from": "gpt", "value": "The leaves show dark brown spots — it is Tomato Late Blight."},
+      {"from": "human", "value": "How can it be treated?"},
+      {"from": "gpt", "value": "Use copper-based fungicides and avoid excess moisture on leaves."}
+    ]
+  },
+  {
+    "image": "Pepper__bell___healthy/002.jpg",
+    "conversation": [
+      {"from": "human", "value": "Is this plant healthy?"},
+      {"from": "gpt", "value": "Yes, this pepper plant looks healthy and free from visible diseases."}
+    ]
+  }
+]
